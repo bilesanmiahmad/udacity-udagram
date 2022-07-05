@@ -35,6 +35,8 @@ Follow the process described in the course to `eb init` a new application and `e
 ### Elastic Beanstalk Endpoint
 http://image-filter-dev22.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/9555/production/_125592283_peterobiimage.jpg
 
+http://image-filter-dev22.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/2BF7/production/_125555211_packingcoldstore_01.jpg
+
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
